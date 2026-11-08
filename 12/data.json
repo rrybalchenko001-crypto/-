@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Прогулка по набережной",
+        "category": "Пеший",
+        "amount": 4,
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Горная тропа",
+        "category": "Горный",
+        "amount": 12,
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Лесной маршрут",
+        "category": "Пеший",
+        "amount": 7,
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Велопрогулка у озера",
+        "category": "Велосипедный",
+        "amount": 9,
+        "completed": true
+    }
+]
